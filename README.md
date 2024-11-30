@@ -1,4 +1,7 @@
 ## Hi there 👋
+Welcome to my personal GitHub! I store personal projects as well as some of my classwork from undergraduate here. The repositories that are pinned contain the work that I'm more proud of. I think the highlight is ``senior-design``, which contains my undergraduate's senior capstone project, a game engine that I designed and implemented myself.
+
+Currently, the personal project I'm actively working on is an audio visualizer, inspired by Windows XP's media player.
 
 <!--
 **chruffins/chruffins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
